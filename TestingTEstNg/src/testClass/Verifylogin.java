@@ -37,7 +37,8 @@ public class Verifylogin
 			else
 			{
 				System.out.println("Login test is failed");
-			}		
+			}
+			System.out.println("Login functionality checked successfully");
 			
 		}
 
