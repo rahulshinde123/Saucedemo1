@@ -13,7 +13,7 @@ public class TestNgSoftHardAssert
 	SoftAssert soft = new SoftAssert();
 	
 	@Test
-	public void method Login()
+	public void method login()
 	{
 		String actualTitle = "Swag Labs";
 		String expectedTitle = " Labs";
